@@ -5,9 +5,11 @@ As of now, we have done following tasks.
 2. create embeddings of 384 dimensions using open source SentenceTransformer 'multi-qa-MiniLM-L6-cos-v1' model.
 3. store these embeddings into the PostgreSQL database using pg_vector
 
-TODO
+TODO:
+====
 4. Run similarity search - PARTIALY COMPLETE
-5. Run the complete RAG system
-6. Explore indexing in pg_vector for performance
+5. Run the complete RAG system.
+6. Explore indexing in pg_vector for performance.
+
 
 
